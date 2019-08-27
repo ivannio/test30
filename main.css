@@ -1,0 +1,12 @@
+body {
+    background-image: url("bananas.png");
+}
+
+h1 {
+    display: flex;
+    font-family: 'Ultra', serif;
+    font-size: 5em;
+    color: rgb(245, 224, 40);
+    background-color: #350404;
+    justify-content: center;
+}
